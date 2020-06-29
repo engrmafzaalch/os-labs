@@ -1,0 +1,1 @@
+cat task.txt | grep -v B

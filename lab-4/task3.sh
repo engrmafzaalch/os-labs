@@ -1,0 +1,1 @@
+ls > task2.txt | sort <task.txt> task2.txt
